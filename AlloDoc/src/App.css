@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.nav-href{
+  text-decoration: none;
+  padding-right: 40px;
+
+}
+.lezu{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 65px;
+}
+.lezu span{
+  margin-right: 10px;
+  cursor: pointer;
+
+}
+.Header{
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+.logo{
+  width: 200px;
+  height: 100px;
+  margin-left: 20px;
+  margin-top: 45px;
+  
+}
+.manu{
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.manu img{
+  cursor: pointer;
+  margin-right: 20px;
+}
+.anun-user{
+  width: 160px;
+  height: 20px;
+  display: flex;
+  justify-content: end;
+}
+.slaq{
+  width: 30px;
+  height: 20px;
+}
+.anun-user span{
+margin-right: 10px;
+}
